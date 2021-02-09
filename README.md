@@ -38,4 +38,4 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/emil-khaibrakhmanov-917149204/r
+[linkedin]: https://www.linkedin.com/in/emil-khaibrakhmanov-917149204/
