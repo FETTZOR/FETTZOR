@@ -3,7 +3,7 @@
 
 ## I'm a Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Get internship
 - ⚡ Fun fact: I love to draw and play guitar / drums
