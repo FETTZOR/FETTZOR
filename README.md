@@ -4,7 +4,7 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Get internship
+- 🥅 2021 Goals: Get internship
 
 ### Connect with me:
 
